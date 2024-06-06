@@ -30,7 +30,7 @@ global.info = {
 
 /*============== STAFF ==============*/
 global.owner = [
-    ['6288286326619', 'KyyXD', 'true']
+    ['6289518562932', 'Vanz Suki', 'true']
     // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
